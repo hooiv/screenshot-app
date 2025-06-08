@@ -1,3 +1,4 @@
+deployment is not working , due to puppeteer issues in backend (chrome not found)
 # Mini BrowserStack - Automated Screenshot Tool
 
 This project is a web application that takes a URL and a device size, then generates a screenshot of that website using a headless browser on a server.
